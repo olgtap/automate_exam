@@ -19,7 +19,7 @@ const path = {
         img: 'build/img/'
     },
     src: {
-        img: 'img/**/*.{jpg,svg}',
+        img: 'src/img/**/*.{jpg,svg}',
         css: 'src/css/**/*.css',
         html: 'src/**/*.{html,htm}',
         scss: 'src/scss/*.scss',
